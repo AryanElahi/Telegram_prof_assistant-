@@ -25,7 +25,7 @@ To install this bot, follow these steps:
 ## Usage 💻
 
 To use this bot, you need to add it to your Telegram contacts or group chats. You can interact with the bot using the following commands:
-
+" COMMADS NEED TO BE ADDED
 - `/start` - Start the bot and get a welcome message
 - `/help` - Get a list of available commands and instructions
 - `/create` - Create a new assignment
@@ -35,7 +35,7 @@ To use this bot, you need to add it to your Telegram contacts or group chats. Yo
 - `/submit` - Submit your work for an assignment
 - `/grade` - Grade a submission for an assignment
 - `/feedback` - Give or receive feedback for an assignment
-
+"
 ## Contributing 🙌
 
 If you want to contribute to this project, you are welcome to do so. Please follow the
