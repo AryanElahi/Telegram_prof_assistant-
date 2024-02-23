@@ -1,0 +1,22 @@
+{
+  "name": "profasist-bot",
+  "version": "1.0.0",
+  "description": "This is a Telegram bot that can help professors manage their exercises and projects. It allows professors to create, edit, and delete assignments, set deadlines, and grade submissions. It also notifies students about new assignments, reminders, and feedback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanElahi/Telegram_prof_assistant-.git"
+  },
+  "author": "Aryan Faghirollahy",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AryanElahi/Telegram_prof_assistant-/issues"
+  },
+  "homepage": "https://github.com/AryanElahi/Telegram_prof_assistant-#readme",
+  "dependencies": {
+    "telegraph": "^0.8.22"
+  }
+}
